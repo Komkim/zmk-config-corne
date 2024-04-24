@@ -37,12 +37,12 @@ layers:
   - .
   - /
   - LEFT ALT
-  - LEFT GUI
-  - nav
-  - BSPC
-  - SPACE
+  - ESCAPE
   - symbols
+  - SPACE
   - ENTER
+  - nav
+  - BACKSPACE
   symbols:
   - {t: ▽, type: trans}
   - '1'
@@ -81,10 +81,10 @@ layers:
   - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   nav:
   - Gui+Ctl+ TAB
@@ -124,10 +124,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - LEFT GUI
   - Ctl+Gui+ SPACE
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   extended:
   - {t: ▽, type: trans}
