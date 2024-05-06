@@ -44,7 +44,7 @@ layers:
   - nav
   - BACKSPACE
   symbols:
-  - {t: ▽, type: trans}
+  - ESC
   - '1'
   - '2'
   - '3'
@@ -55,8 +55,8 @@ layers:
   - '8'
   - '9'
   - '0'
+  - BACKSPACE
   - {t: ▽, type: trans}
-  - ESC
   - '!'
   - '@'
   - '#'
